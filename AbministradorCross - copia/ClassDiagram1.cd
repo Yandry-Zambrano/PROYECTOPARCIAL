@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AdministradorCross.ClientesVespertino">
+    <Position X="5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ClientesVespertino.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AdministradorCross.ClienteNocturno">
+    <Position X="7.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ClienteNocturno.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AdministradorCross.ClienteMatutino">
+    <Position X="3.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ClienteMatutino.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AdministradorCross.ClientesGym" Collapsed="true">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEACAAgAAAAAAAAAAAABAAAgAAAAA=</HashCode>
+      <FileName>ClientesGym.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AdministradorCross.DepartamentoGym">
+    <Position X="0.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DepartamentoGym.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AdministradorCross.InscripcionGym">
+    <Position X="0.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAQAAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>InscripccionGym.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
